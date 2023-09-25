@@ -1,0 +1,14 @@
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\bin\Debug\netcoreapp3.1\CA20230925.exe
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\bin\Debug\netcoreapp3.1\CA20230925.deps.json
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\bin\Debug\netcoreapp3.1\CA20230925.runtimeconfig.json
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\bin\Debug\netcoreapp3.1\CA20230925.runtimeconfig.dev.json
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\bin\Debug\netcoreapp3.1\CA20230925.dll
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\bin\Debug\netcoreapp3.1\CA20230925.pdb
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\obj\Debug\netcoreapp3.1\CA20230925.csproj.AssemblyReference.cache
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\obj\Debug\netcoreapp3.1\CA20230925.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\obj\Debug\netcoreapp3.1\CA20230925.AssemblyInfoInputs.cache
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\obj\Debug\netcoreapp3.1\CA20230925.AssemblyInfo.cs
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\obj\Debug\netcoreapp3.1\CA20230925.csproj.CoreCompileInputs.cache
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\obj\Debug\netcoreapp3.1\CA20230925.dll
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\obj\Debug\netcoreapp3.1\CA20230925.pdb
+C:\Users\BOSS\source\repos\CA20230925\CA20230925\obj\Debug\netcoreapp3.1\CA20230925.genruntimeconfig.cache

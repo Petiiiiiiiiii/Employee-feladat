@@ -1,0 +1,49 @@
+John;25;Budapest;IT;Engineer;Male;Single;1200
+Alice;30;Debrecen;Marketing;Manager;Female;Married;900
+Bob;22;Szeged;HR;Assistant;Male;Single;650
+Eva;28;Budapest;Finance;Analyst;Female;Married;1100
+Michael;35;Pécs;Sales;Representative;Male;Single;800
+Sophia;29;Budapest;IT;Developer;Female;Married;1350
+David;40;Szeged;Finance;Manager;Male;Married;1600
+Sarah;27;Debrecen;IT;Designer;Female;Single;950
+Daniel;32;Szeged;HR;Manager;Male;Single;1400
+Emma;31;Pécs;Marketing;Coordinator;Female;Married;720
+Matthew;34;Budapest;IT;Team Lead;Male;Single;1450
+Olivia;26;Szeged;Sales;Representative;Female;Single;710
+William;38;Budapest;Finance;Analyst;Male;Married;1150
+Ava;23;Debrecen;IT;Developer;Female;Single;1300
+James;29;Budapest;Marketing;Manager;Male;Single;950
+Mia;33;Pécs;HR;Assistant;Female;Married;660
+Benjamin;24;Szeged;Finance;Analyst;Male;Single;1120
+Charlotte;36;Budapest;Sales;Representative;Female;Married;720
+Logan;30;Debrecen;IT;Engineer;Male;Single;1150
+Luna;28;Szeged;Finance;Manager;Female;Single;1400
+Ethan;26;Pécs;IT;Designer;Male;Single;990
+Harper;35;Budapest;Marketing;Coordinator;Female;Married;810
+Liam;22;Budapest;IT;Developer;Male;Single;1250
+Aria;31;Szeged;Finance;Analyst;Female;Married;930
+Noah;37;Pécs;Sales;Representative;Male;Single;720
+Grace;29;Budapest;IT;Team Lead;Female;Married;1520
+Sophia;29;Budapest;IT;Developer;Female;Married;1350
+David;40;Szeged;Finance;Manager;Male;Married;1600
+Sarah;27;Debrecen;IT;Designer;Female;Single;950
+Daniel;32;Szeged;HR;Manager;Male;Single;1400
+Emma;31;Pécs;Marketing;Coordinator;Female;Married;720
+Matthew;34;Budapest;IT;Team Lead;Male;Single;1450
+Olivia;26;Szeged;Sales;Representative;Female;Single;710
+William;38;Budapest;Finance;Analyst;Male;Married;1150
+Ava;23;Debrecen;IT;Developer;Female;Single;1300
+James;29;Budapest;Marketing;Manager;Male;Single;950
+Mia;33;Pécs;HR;Assistant;Female;Married;660
+Benjamin;24;Szeged;Finance;Analyst;Male;Single;1120
+Charlotte;36;Budapest;Sales;Representative;Female;Married;720
+Logan;30;Debrecen;IT;Engineer;Male;Single;1150
+Luna;28;Szeged;Finance;Manager;Female;Single;1400
+Ethan;26;Pécs;IT;Designer;Male;Single;990
+Harper;35;Budapest;Marketing;Coordinator;Female;Married;810
+Liam;22;Budapest;IT;Developer;Male;Single;1250
+Aria;31;Szeged;Finance;Analyst;Female;Married;930
+Noah;37;Pécs;Sales;Representative;Male;Single;720
+Grace;29;Budapest;IT;Team Lead;Female;Married;1520
+Oliver;28;Debrecen;Marketing;Manager;Male;Single;1120
+Nora;33;Szeged;HR;Assistant;Female;Single;800
